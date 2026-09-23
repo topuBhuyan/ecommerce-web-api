@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8CRZyCsavD0=",
+  "success": true,
+  "projectFilePath": "/run/media/new/New Volume/All Program/Dot_net/Ecomersce-web-api/Ecomersce-web-api.csproj",
+  "expectedPackageFiles": [
+    "/home/new/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/home/new/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
